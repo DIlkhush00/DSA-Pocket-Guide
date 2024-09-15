@@ -1,1 +1,22 @@
-# Data Structures And Algorithm
+# DSA Pocket Guide
+
+>**Status:** _In Progress_
+
+Want to take a quick look at a variety of topics in Data Structures and Algorithms? You're at the right place! 😉
+
+## Data Structures
+- [**Array**](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Data%20Structures/Array)
+- [**Linked List**](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Data%20Structures/Linked%20List)
+- [**Stack**](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Data%20Structures/Stack)
+- [**Queue**](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Data%20Structures/Queue)
+- [**Tree**](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Data%20Structures/Tree)
+- [**Graph**](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Data%20Structures/Graph)
+
+## Algorithms and Techniques
+- [**Binary Search**](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Algorithms%20and%20Techniques/Binary%20Search)
+- [**Two Pointers**](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Algorithms%20and%20Techniques/Two%20Pointers)
+- [**Sliding Window**](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Algorithms%20and%20Techniques/Sliding%20Window)
+
+
+## Contribution
+Want to contribute to the repository or suggest changes to improve it? Just check out the [CONTRIBUTING](https://github.com/DIlkhush00/DSA-Pocket-Guide/blob/master/CONTRIBUTING.md) guidelines and go ahead.
