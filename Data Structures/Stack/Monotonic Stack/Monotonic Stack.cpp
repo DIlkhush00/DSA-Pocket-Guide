@@ -34,7 +34,7 @@ vector<int> nextGreaterElements(vector<int>& nums)
             result[i] = decMonoStack.top();
         
         // Finally push the current element to the stack. Thus the stack will maintain it's decreasing order.
-		decMonoStack.push(currentElement);
+	decMonoStack.push(currentElement);
 	}
 
 	return result;
@@ -70,7 +70,7 @@ vector<int> prevSmallerElements(vector<int>& nums)
             result[i] = incMonoStack.top();
         
         // Finally push the current element to the stack. Thus the stack will maintain it's increasing order.
-		incMonoStack.push(currentElement);
+	incMonoStack.push(currentElement);
 	}
 
 	return result;
@@ -88,13 +88,13 @@ void print(const vector<int>& nums)
 int main()
 {
 	vector<int> nums = {1, 2, 3, 4, 5, 6}; // where: nums[i] >= 0
-    cout << "Original array: ";
-    print(nums);
+	cout << "Original array: ";
+	print(nums);
 
-    cout << "Next greater elements to the corresponding indexes: ";
+    	cout << "Next greater elements to the corresponding indexes: ";
 	print(nextGreaterElements(nums));
-    cout << "Previous smaller elements to the corresponding indexes: ";
-    print(prevSmallerElements(nums));
+    	cout << "Previous smaller elements to the corresponding indexes: ";
+    	print(prevSmallerElements(nums));
 	
 	return 0;
 }
