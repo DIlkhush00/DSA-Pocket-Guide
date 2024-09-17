@@ -6,8 +6,13 @@ Want to take a quick look at a variety of topics in Data Structures and Algorith
 
 ## Data Structures
 - [**Array**](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Data%20Structures/Array)
+  - [Basics](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Data%20Structures/Array/Basic%20Operations)
+  - [Algorithms](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Data%20Structures/Array/Algorithms)
+    - [Searching](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Data%20Structures/Array/Algorithms/Searching)
 - [**Linked List**](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Data%20Structures/Linked%20List)*
 - [**Stack**](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Data%20Structures/Stack)
+  - [Implementation](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Data%20Structures/Stack/Implementation) 
+  - [Monotonic Stack](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Data%20Structures/Stack/Monotonic%20Stack)
 - [**Queue**](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Data%20Structures/Queue)*
 - [**Tree**](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Data%20Structures/Tree)*
 - [**Graph**](https://github.com/DIlkhush00/DSA-Pocket-Guide/tree/master/Data%20Structures/Graph)*
